@@ -1,20 +1,17 @@
 # [NAME OF YOUR REPO]
-
-[SHORT DESCRIPTION]
+Kent Sharing Platform
+This is a simple website. Content is based on Kent School as the theme of the sharing platform.
 
 ## Built With
-
-- [SOME TECHNOLOGY]
-- [ANOTHER TECHNOLOGY]
+- html
+- css
 
 ## Installation
-
-[INSTRUCTIONS TO DEVELOPERS ON HOW THEY CAN REPLICATE, INSTALL, AND PUBLISH THEIR OWN VERSION OF YOUR REPO]
+The Repository contains an images document and five web pages written in HTML. Create your own web pages by placing the source code and images files in your repository folder. Then in github's setting page option, select the file location and publish, you can get a URL of your own web page
 
 ## Contributing
-
-[INSTRUCTIONS ON HOW TO CONTRIBUTE TO THE OPEN SOURCE PROJECT]
+We hope the school can use our website as a propaganda tool to students and parents who want to know more and join Hanvos-Kent. Since it’s an open source website, the school can use it freely .
 
 ## License
-
-[INFORMATION ABOUT LICENSE]
+We made our own source code, without any reference. Copyright Jerry Lin and Leaf Ye.
+The license should be MIT.
