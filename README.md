@@ -1,5 +1,5 @@
-# [NAME OF YOUR REPO]
-Kent Sharing Platform
+# Kent Sharing Platform
+
 This is a simple website. Content is based on Kent School as the theme of the sharing platform.
 
 ## Built With
